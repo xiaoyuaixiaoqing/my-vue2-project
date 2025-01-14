@@ -1,8 +1,7 @@
 <template>
   <div>
-    {{schoolName}}
+    {{schoolName}}{{schoolName}}
     {{schoolAddress}}
-
   </div>
 </template>
 
