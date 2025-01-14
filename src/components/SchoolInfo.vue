@@ -2,6 +2,8 @@
   <div>
     {{schoolName}}{{schoolName}}
     {{schoolAddress}}{{schoolAddress}}
+     {{}}
+
   </div>
 </template>
 
